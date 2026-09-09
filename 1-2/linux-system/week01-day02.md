@@ -15,8 +15,8 @@
 
 #### 사용 예시
 
-```console
-$ sudo 명령
+```bash
+sudo 명령
 ```
 
 ---
@@ -32,9 +32,9 @@ $ sudo 명령
 
 #### 사용 예시
 
-```console
-$ su 사용자명
-$ su
+```bash
+su 사용자명
+su
 ```
 
 ---
